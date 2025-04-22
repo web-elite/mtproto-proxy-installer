@@ -1,6 +1,6 @@
 # اسکریپت نصب MTProto Proxy
 
-> [🇺🇸 English](https://github.com/web-elite/mtproto-proxy-installer/blob/main/README.md)
+> [🇺🇸 English](https://github.com/web-elite/mtproto-proxy-installer/blob/main/README.MD)
 
 این یک اسکریپت نصب تعاملی برای [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy) است.  
 این اسکریپت به شما کمک می‌کند تا به راحتی سرور پروکسی MTProto را نصب، پیکربندی، ویرایش یا حذف کنید.

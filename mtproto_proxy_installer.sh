@@ -32,7 +32,7 @@ function install_mtproto() {
         secret=$(openssl rand -hex 16)
         users+="    \"$username\": \"$secret\",\n"
 
-        link="tg://proxy?server=$server_ip&port=$port&secret=ee$secret"
+        link="tg://proxy?server=$server_ip&port=$port&secret=dd$secret"
         links+="$username: $link\n"
     done
     users=$(echo -e "$users" | sed '$ s/,$//')

@@ -29,6 +29,7 @@ function install_mtproto() {
         secret=$(openssl rand -hex 16)
         users+="    \"$username\": \"$secret\",\n"
     done
+    users=$(echo -e "$users" | sed '$ s/,$//')
 
     # Write config
     cat > $CONFIG_FILE <<EOF

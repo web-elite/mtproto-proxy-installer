@@ -1,6 +1,6 @@
 # MTProto Proxy Installer Script
 
-> [🇮🇷 فارسی](https://github.com/web-elite/mtproto-installer/README-FA.md)
+> [🇮🇷 فارسی](https://github.com/web-elite/mtproto-proxy-installer/blob/main/README-fa.md)
 
 This is an interactive installer script for [alexbers/mtprotoproxy](https://github.com/alexbers/mtprotoproxy).  
 It helps you easily install, configure, edit, or remove the MTProto proxy server on your system.
